@@ -4,11 +4,11 @@ Author: Daniel Durant
 I have made a contact managment system for a company. 
 
 Each Department has a different starting number to their four digit employee number.
-Accounting:
+1. Accounting:
 1001-1999
-Finance:
+2. Finance:
 2001-2999
-Management:
+3. Management:
 3001-3999
 
 How to:
