@@ -3,13 +3,7 @@ Author: Daniel Durant
 
 I have made a contact managment system for a company. 
 
-Each Department has a different starting number to their four digit employee number.
-1. Accounting:
-1001-1999
-2. Finance:
-2001-2999
-3. Management:
-3001-3999
+
 
 How to:
 Navigating this command line like program is easy. You will select the department that you want to work with at the start. When you make changes within the file you are working with
@@ -26,3 +20,10 @@ Menu:
 7. Import contacts from a text file
 8. Quit
 
+Each Department has a different starting number to their four digit employee number.
+1. Accounting:
+1001-1999
+2. Finance:
+2001-2999
+3. Management:
+3001-3999
