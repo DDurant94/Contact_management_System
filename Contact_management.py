@@ -92,7 +92,6 @@ def import_contacts(file_info):
     with open(f"Contact_management_system\\{file_info}","r") as file:
       extraction = file.readlines()
       contents = {}
-      print(extraction)
       for line in extraction:
         getting_info = line.strip("''[]").split('/')
         contents[getting_info[0]] = {"Employee Name":getting_info[1],"Phone Number":getting_info[2],"Email":getting_info[3],"Address":getting_info[4],"Notes":getting_info[5]}
