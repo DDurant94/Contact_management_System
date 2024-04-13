@@ -1,0 +1,3 @@
+E.ID Here/Name here/Phone Number Here/Email Here/Address Here/Notes Here
+1001/John Doe/1-888-888-8888/example_01@coding.com/1234 East Coding Street Coding City 11223/Bring in for a interview possible promotion
+1002/Mary Johnson/1-888-888-8889/example_02@coding.com/1235 East Coding Street Coding City 11223/Knows five languages in coding
